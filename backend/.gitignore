@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+dist/
+build/
+
+# Env files
+.env
+.env.local
+
+# IDE files
+.vscode/
+.idea/
+
+# Dependency directory for pnpm
+.pnpm-store/
+
+# Mac system files
+*.DS_Store
+
+# Optional lock files (if you’re using yarn or pnpm)
+yarn.lock
+pnpm-lock.yaml
